@@ -1,0 +1,7 @@
+evidently
+flask
+dill
+nsepy
+matplotlib
+gunicorn
+-e .
